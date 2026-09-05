@@ -1,0 +1,1264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SportsWebCal UEFA Champions League//
+BEGIN:VEVENT
+SUMMARY:AEK Athens vs LASK Linz
+DTSTART:20260908T164500Z
+DTEND:20260908T184500Z
+UID:401915452
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: OPAP Arena\n\nSou
+ rce: ESPN Core API\n\nSportsWebCal
+LOCATION:OPAP Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Brugge vs Aston Villa
+DTSTART:20260908T164500Z
+DTEND:20260908T184500Z
+UID:401915426
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Jan Breydel Stadi
+ um\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Jan Breydel Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Borussia Dortmund vs Villarreal
+DTSTART:20260908T190000Z
+DTEND:20260908T210000Z
+UID:401915449
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Signal Iduna Park
+ \n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Signal Iduna Park
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Porto vs Manchester City
+DTSTART:20260908T190000Z
+DTEND:20260908T210000Z
+UID:401915425
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Estádio do Drag
+ ão\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Estádio do Dragão
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lille vs Real Betis
+DTSTART:20260908T190000Z
+DTEND:20260908T210000Z
+UID:401915450
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Decathlon Arena -
+  Stade Pierre-Mauroy\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Decathlon Arena - Stade Pierre-Mauroy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Madrid vs Internazionale
+DTSTART:20260908T190000Z
+DTEND:20260908T210000Z
+UID:401915451
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Santiago Bernabé
+ u\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Santiago Bernabéu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barcelona vs Feyenoord Rotterdam
+DTSTART:20260909T164500Z
+DTEND:20260909T184500Z
+UID:401915424
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Spotify Camp Nou
+ \n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Spotify Camp Nou
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VfB Stuttgart vs Viking FK
+DTSTART:20260909T164500Z
+DTEND:20260909T184500Z
+UID:401915448
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: MHPArena\n\nSourc
+ e: ESPN Core API\n\nSportsWebCal
+LOCATION:MHPArena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liverpool vs Atlético Madrid
+DTSTART:20260909T190000Z
+DTEND:20260909T210000Z
+UID:401915446
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Anfield\n\nSource
+ : ESPN Core API\n\nSportsWebCal
+LOCATION:Anfield
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Napoli vs Arsenal
+DTSTART:20260909T190000Z
+DTEND:20260909T210000Z
+UID:401915423
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Stadio Diego Arma
+ ndo Maradona\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Stadio Diego Armando Maradona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris Saint-Germain vs Slovan Bratislava
+DTSTART:20260909T190000Z
+DTEND:20260909T210000Z
+UID:401915445
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Parc des Princes
+ \n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Parc des Princes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting CP vs Galatasaray
+DTSTART:20260909T190000Z
+DTEND:20260909T210000Z
+UID:401915447
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Estádio José Al
+ valade\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Estádio José Alvalade
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fenerbahce vs AS Roma
+DTSTART:20260910T164500Z
+DTEND:20260910T184500Z
+UID:401915444
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Ulker Stadyumu\n
+ \nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Ulker Stadyumu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSV Eindhoven vs Shakhtar Donetsk
+DTSTART:20260910T164500Z
+DTEND:20260910T184500Z
+UID:401915422
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Philips Stadion\n
+ \nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Philips Stadion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern Munich vs Bodo/Glimt
+DTSTART:20260910T190000Z
+DTEND:20260910T210000Z
+UID:401915443
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Allianz Arena\n\n
+ Source: ESPN Core API\n\nSportsWebCal
+LOCATION:Allianz Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Como vs RB Leipzig
+DTSTART:20260910T190000Z
+DTEND:20260910T210000Z
+UID:401915441
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Giuseppe Sinigagl
+ ia\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Giuseppe Sinigaglia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester United vs Sabah FK
+DTSTART:20260910T190000Z
+DTEND:20260910T210000Z
+UID:401915442
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Old Trafford\n\nS
+ ource: ESPN Core API\n\nSportsWebCal
+LOCATION:Old Trafford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slavia Prague vs Lens
+DTSTART:20260910T190000Z
+DTEND:20260910T210000Z
+UID:401915440
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Fortuna Arena\n\n
+ Source: ESPN Core API\n\nSportsWebCal
+LOCATION:Fortuna Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lens vs Sporting CP
+DTSTART:20261013T164500Z
+DTEND:20261013T184500Z
+UID:401915418
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Stade Bollaert-De
+ lelis\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Stade Bollaert-Delelis
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal vs Lille
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+UID:401915417
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Emirates Stadium
+ \n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Emirates Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlético Madrid vs Manchester United
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+UID:401915412
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Riyadh Air Metrop
+ olitano\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Riyadh Air Metropolitano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Galatasaray vs Barcelona
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+UID:401915435
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: RAMS Park\n\nSour
+ ce: ESPN Core API\n\nSportsWebCal
+LOCATION:RAMS Park
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Internazionale vs Club Brugge
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+UID:401915413
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: San Siro\n\nSourc
+ e: ESPN Core API\n\nSportsWebCal
+LOCATION:San Siro
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RB Leipzig vs PSV Eindhoven
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+UID:401915434
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Red Bull Arena\n
+ \nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Red Bull Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viking FK vs Bayern Munich
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+UID:401915411
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Viking Stadion\n
+ \nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Viking Stadion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Villarreal vs Napoli
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+UID:401915410
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Estadio de la Cer
+ ámica\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Estadio de la Cerámica
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feyenoord Rotterdam vs Como
+DTSTART:20261014T164500Z
+DTEND:20261014T184500Z
+UID:401915416
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: De Kuip\n\nSource
+ : ESPN Core API\n\nSportsWebCal
+LOCATION:De Kuip
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LASK Linz vs Liverpool
+DTSTART:20261014T164500Z
+DTEND:20261014T184500Z
+UID:401915415
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Raiffeisen Arena 
+ (Linz)\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Raiffeisen Arena (Linz)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AS Roma vs Real Madrid
+DTSTART:20261014T190000Z
+DTEND:20261014T210000Z
+UID:401915414
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Olimpico\n\nSourc
+ e: ESPN Core API\n\nSportsWebCal
+LOCATION:Olimpico
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aston Villa vs Fenerbahce
+DTSTART:20261014T190000Z
+DTEND:20261014T210000Z
+UID:401915409
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Villa Park\n\nSou
+ rce: ESPN Core API\n\nSportsWebCal
+LOCATION:Villa Park
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bodo/Glimt vs Borussia Dortmund
+DTSTART:20261014T190000Z
+DTEND:20261014T210000Z
+UID:401915393
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Aspmyra Stadion\n
+ \nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Aspmyra Stadion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City vs Paris Saint-Germain
+DTSTART:20261014T190000Z
+DTEND:20261014T210000Z
+UID:401915407
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Etihad Stadium\n
+ \nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Etihad Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Betis vs FC Porto
+DTSTART:20261014T190000Z
+DTEND:20261014T210000Z
+UID:401915408
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Estadio La Cartuj
+ a\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Estadio La Cartuja
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shakhtar Donetsk vs AEK Athens
+DTSTART:20261014T190000Z
+DTEND:20261014T210000Z
+UID:401915406
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Stamford Bridge\n
+ \nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Stamford Bridge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slovan Bratislava vs VfB Stuttgart
+DTSTART:20261014T190000Z
+DTEND:20261014T210000Z
+UID:401915405
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Národny Futbalov
+ y Stadión\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Národny Futbalovy Stadión
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fenerbahce vs Slavia Prague
+DTSTART:20261020T164500Z
+DTEND:20261020T184500Z
+UID:401915403
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Ulker Stadyumu\n
+ \nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Ulker Stadyumu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AS Roma vs Slovan Bratislava
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+UID:401915402
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Olimpico\n\nSourc
+ e: ESPN Core API\n\nSportsWebCal
+LOCATION:Olimpico
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Porto vs PSV Eindhoven
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+UID:401915398
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Estádio do Drag
+ ão\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Estádio do Dragão
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liverpool vs Villarreal
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+UID:401915397
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Anfield\n\nSource
+ : ESPN Core API\n\nSportsWebCal
+LOCATION:Anfield
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City vs AEK Athens
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+UID:401915401
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Etihad Stadium\n
+ \nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Etihad Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Napoli vs Bodo/Glimt
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+UID:401915400
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Stadio Diego Arma
+ ndo Maradona\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Stadio Diego Armando Maradona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris Saint-Germain vs Barcelona
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+UID:401915399
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Parc des Princes
+ \n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Parc des Princes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VfB Stuttgart vs Atlético Madrid
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+UID:401915392
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: MHPArena\n\nSourc
+ e: ESPN Core API\n\nSportsWebCal
+LOCATION:MHPArena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Como vs Manchester United
+DTSTART:20261021T164500Z
+DTEND:20261021T184500Z
+UID:401915395
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Giuseppe Sinigagl
+ ia\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Giuseppe Sinigaglia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lille vs Galatasaray
+DTSTART:20261021T164500Z
+DTEND:20261021T184500Z
+UID:401915396
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Decathlon Arena -
+  Stade Pierre-Mauroy\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Decathlon Arena - Stade Pierre-Mauroy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aston Villa vs Viking FK
+DTSTART:20261021T190000Z
+DTEND:20261021T210000Z
+UID:401915394
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Villa Park\n\nSou
+ rce: ESPN Core API\n\nSportsWebCal
+LOCATION:Villa Park
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern Munich vs Arsenal
+DTSTART:20261021T190000Z
+DTEND:20261021T210000Z
+UID:401915312
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Allianz Arena\n\n
+ Source: ESPN Core API\n\nSportsWebCal
+LOCATION:Allianz Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Brugge vs Lens
+DTSTART:20261021T190000Z
+DTEND:20261021T210000Z
+UID:401915388
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Jan Breydel Stadi
+ um\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Jan Breydel Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Internazionale vs Shakhtar Donetsk
+DTSTART:20261021T190000Z
+DTEND:20261021T210000Z
+UID:401915390
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: San Siro\n\nSourc
+ e: ESPN Core API\n\nSportsWebCal
+LOCATION:San Siro
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Betis vs Feyenoord Rotterdam
+DTSTART:20261021T190000Z
+DTEND:20261021T210000Z
+UID:401915389
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Estadio La Cartuj
+ a\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Estadio La Cartuja
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Madrid vs RB Leipzig
+DTSTART:20261021T190000Z
+DTEND:20261021T210000Z
+UID:401915313
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Santiago Bernabé
+ u\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Santiago Bernabéu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting CP vs LASK Linz
+DTSTART:20261021T190000Z
+DTEND:20261021T210000Z
+UID:401915391
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Estádio José Al
+ valade\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Estádio José Alvalade
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Galatasaray vs VfB Stuttgart
+DTSTART:20261103T174500Z
+DTEND:20261103T194500Z
+UID:401915311
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: RAMS Park\n\nSour
+ ce: ESPN Core API\n\nSportsWebCal
+LOCATION:RAMS Park
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shakhtar Donetsk vs Sporting CP
+DTSTART:20261103T174500Z
+DTEND:20261103T194500Z
+UID:401915310
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Stamford Bridge\n
+ \nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Stamford Bridge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlético Madrid vs Bayern Munich
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+UID:401915386
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Riyadh Air Metrop
+ olitano\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Riyadh Air Metropolitano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barcelona vs Aston Villa
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+UID:401915387
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Spotify Camp Nou
+ \n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Spotify Camp Nou
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bodo/Glimt vs Lille
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+UID:401915384
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Aspmyra Stadion\n
+ \nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Aspmyra Stadion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feyenoord Rotterdam vs Internazionale
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+UID:401915307
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: De Kuip\n\nSource
+ : ESPN Core API\n\nSportsWebCal
+LOCATION:De Kuip
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LASK Linz vs Slovan Bratislava
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+UID:401915385
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Raiffeisen Arena 
+ (Linz)\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Raiffeisen Arena (Linz)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester United vs AS Roma
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+UID:401915308
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Old Trafford\n\nS
+ ource: ESPN Core API\n\nSportsWebCal
+LOCATION:Old Trafford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Villarreal vs Paris Saint-Germain
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+UID:401915309
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Estadio de la Cer
+ ámica\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Estadio de la Cerámica
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEK Athens vs Real Madrid
+DTSTART:20261104T174500Z
+DTEND:20261104T194500Z
+UID:401915383
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: OPAP Arena\n\nSou
+ rce: ESPN Core API\n\nSportsWebCal
+LOCATION:OPAP Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fenerbahce vs Liverpool
+DTSTART:20261104T174500Z
+DTEND:20261104T194500Z
+UID:401915382
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Ulker Stadyumu\n
+ \nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Ulker Stadyumu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Borussia Dortmund vs Real Betis
+DTSTART:20261104T200000Z
+DTEND:20261104T220000Z
+UID:401915304
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Signal Iduna Park
+ \n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Signal Iduna Park
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Porto vs Napoli
+DTSTART:20261104T200000Z
+DTEND:20261104T220000Z
+UID:401915301
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Estádio do Drag
+ ão\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Estádio do Dragão
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lens vs Como
+DTSTART:20261104T200000Z
+DTEND:20261104T220000Z
+UID:401915305
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Stade Bollaert-De
+ lelis\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Stade Bollaert-Delelis
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSV Eindhoven vs Club Brugge
+DTSTART:20261104T200000Z
+DTEND:20261104T220000Z
+UID:401915303
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Philips Stadion\n
+ \nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Philips Stadion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RB Leipzig vs Manchester City
+DTSTART:20261104T200000Z
+DTEND:20261104T220000Z
+UID:401915306
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Red Bull Arena\n
+ \nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Red Bull Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slavia Prague vs Arsenal
+DTSTART:20261104T200000Z
+DTEND:20261104T220000Z
+UID:401915381
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Fortuna Arena\n\n
+ Source: ESPN Core API\n\nSportsWebCal
+LOCATION:Fortuna Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viking FK vs Sabah FK
+DTSTART:20261104T200000Z
+DTEND:20261104T220000Z
+UID:401915302
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Viking Stadion\n
+ \nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Viking Stadion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bodo/Glimt vs LASK Linz
+DTSTART:20261124T174500Z
+DTEND:20261124T194500Z
+UID:401915380
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Aspmyra Stadion\n
+ \nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Aspmyra Stadion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Galatasaray vs Aston Villa
+DTSTART:20261124T174500Z
+DTEND:20261124T194500Z
+UID:401915300
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: RAMS Park\n\nSour
+ ce: ESPN Core API\n\nSportsWebCal
+LOCATION:RAMS Park
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal vs Borussia Dortmund
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+UID:401915295
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Emirates Stadium
+ \n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Emirates Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Como vs AEK Athens
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+UID:401915296
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Giuseppe Sinigagl
+ ia\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Giuseppe Sinigaglia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feyenoord Rotterdam vs FC Porto
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+UID:401915294
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: De Kuip\n\nSource
+ : ESPN Core API\n\nSportsWebCal
+LOCATION:De Kuip
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City vs Napoli
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+UID:401915379
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Etihad Stadium\n
+ \nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Etihad Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RB Leipzig vs Lens
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+UID:401915299
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Red Bull Arena\n
+ \nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Red Bull Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Madrid vs PSV Eindhoven
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+UID:401915298
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Santiago Bernabé
+ u\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Santiago Bernabéu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slovan Bratislava vs Real Betis
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+UID:401915297
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Národny Futbalov
+ y Stadión\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Národny Futbalovy Stadión
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slavia Prague vs Villarreal
+DTSTART:20261125T174500Z
+DTEND:20261125T194500Z
+UID:401915293
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Fortuna Arena\n\n
+ Source: ESPN Core API\n\nSportsWebCal
+LOCATION:Fortuna Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlético Madrid vs Viking FK
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+UID:401915291
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Riyadh Air Metrop
+ olitano\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Riyadh Air Metropolitano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Brugge vs Liverpool
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+UID:401915292
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Jan Breydel Stadi
+ um\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Jan Breydel Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Internazionale vs VfB Stuttgart
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+UID:401915376
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: San Siro\n\nSourc
+ e: ESPN Core API\n\nSportsWebCal
+LOCATION:San Siro
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lille vs Bayern Munich
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+UID:401915377
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Decathlon Arena -
+  Stade Pierre-Mauroy\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Decathlon Arena - Stade Pierre-Mauroy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris Saint-Germain vs AS Roma
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+UID:401915374
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Parc des Princes
+ \n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Parc des Princes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shakhtar Donetsk vs Fenerbahce
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+UID:401915375
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Stamford Bridge\n
+ \nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Stamford Bridge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting CP vs Manchester United
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+UID:401915373
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Estádio José Al
+ valade\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Estádio José Alvalade
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viking FK vs Feyenoord Rotterdam
+DTSTART:20261208T174500Z
+DTEND:20261208T194500Z
+UID:401915290
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Viking Stadion\n
+ \nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Viking Stadion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Villarreal vs Sabah FK
+DTSTART:20261208T174500Z
+DTEND:20261208T194500Z
+UID:401915372
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Estadio de la Cer
+ ámica\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Estadio de la Cerámica
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEK Athens vs Galatasaray
+DTSTART:20261208T200000Z
+DTEND:20261208T220000Z
+UID:401915289
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: OPAP Arena\n\nSou
+ rce: ESPN Core API\n\nSportsWebCal
+LOCATION:OPAP Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AS Roma vs Sporting CP
+DTSTART:20261208T200000Z
+DTEND:20261208T220000Z
+UID:401915288
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Olimpico\n\nSourc
+ e: ESPN Core API\n\nSportsWebCal
+LOCATION:Olimpico
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aston Villa vs Paris Saint-Germain
+DTSTART:20261208T200000Z
+DTEND:20261208T220000Z
+UID:401915286
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Villa Park\n\nSou
+ rce: ESPN Core API\n\nSportsWebCal
+LOCATION:Villa Park
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barcelona vs Manchester City
+DTSTART:20261208T200000Z
+DTEND:20261208T220000Z
+UID:401915285
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Spotify Camp Nou
+ \n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Spotify Camp Nou
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern Munich vs Slavia Prague
+DTSTART:20261208T200000Z
+DTEND:20261208T220000Z
+UID:401915284
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Allianz Arena\n\n
+ Source: ESPN Core API\n\nSportsWebCal
+LOCATION:Allianz Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester United vs RB Leipzig
+DTSTART:20261208T200000Z
+DTEND:20261208T220000Z
+UID:401915371
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Old Trafford\n\nS
+ ource: ESPN Core API\n\nSportsWebCal
+LOCATION:Old Trafford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Napoli vs Club Brugge
+DTSTART:20261208T200000Z
+DTEND:20261208T220000Z
+UID:401915287
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Stadio Diego Arma
+ ndo Maradona\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Stadio Diego Armando Maradona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Betis vs Como
+DTSTART:20261209T174500Z
+DTEND:20261209T194500Z
+UID:401915283
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Estadio La Cartuj
+ a\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Estadio La Cartuja
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slovan Bratislava vs Shakhtar Donetsk
+DTSTART:20261209T174500Z
+DTEND:20261209T194500Z
+UID:401915282
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Národny Futbalov
+ y Stadión\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Národny Futbalovy Stadión
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal vs Real Madrid
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+UID:401915367
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Emirates Stadium
+ \n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Emirates Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Borussia Dortmund vs Internazionale
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+UID:401915368
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Signal Iduna Park
+ \n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Signal Iduna Park
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LASK Linz vs Fenerbahce
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+UID:401915281
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Raiffeisen Arena 
+ (Linz)\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Raiffeisen Arena (Linz)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lens vs Bodo/Glimt
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+UID:401915370
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Stade Bollaert-De
+ lelis\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Stade Bollaert-Delelis
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liverpool vs FC Porto
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+UID:401915369
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Anfield\n\nSource
+ : ESPN Core API\n\nSportsWebCal
+LOCATION:Anfield
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSV Eindhoven vs Atlético Madrid
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+UID:401915366
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Philips Stadion\n
+ \nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Philips Stadion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VfB Stuttgart vs Lille
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+UID:401915365
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: MHPArena\n\nSourc
+ e: ESPN Core API\n\nSportsWebCal
+LOCATION:MHPArena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bodo/Glimt vs Atlético Madrid
+DTSTART:20270119T174500Z
+DTEND:20270119T194500Z
+UID:401915364
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Aspmyra Stadion\n
+ \nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Aspmyra Stadion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Galatasaray vs Feyenoord Rotterdam
+DTSTART:20270119T174500Z
+DTEND:20270119T194500Z
+UID:401915363
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: RAMS Park\n\nSour
+ ce: ESPN Core API\n\nSportsWebCal
+LOCATION:RAMS Park
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEK Athens vs AS Roma
+DTSTART:20270119T200000Z
+DTEND:20270119T220000Z
+UID:401915362
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: OPAP Arena\n\nSou
+ rce: ESPN Core API\n\nSportsWebCal
+LOCATION:OPAP Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aston Villa vs Borussia Dortmund
+DTSTART:20270119T200000Z
+DTEND:20270119T220000Z
+UID:401915279
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Villa Park\n\nSou
+ rce: ESPN Core API\n\nSportsWebCal
+LOCATION:Villa Park
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Porto vs Slavia Prague
+DTSTART:20270119T200000Z
+DTEND:20270119T220000Z
+UID:401915278
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Estádio do Drag
+ ão\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Estádio do Dragão
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Internazionale vs Liverpool
+DTSTART:20270119T200000Z
+DTEND:20270119T220000Z
+UID:401915360
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: San Siro\n\nSourc
+ e: ESPN Core API\n\nSportsWebCal
+LOCATION:San Siro
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lille vs Slovan Bratislava
+DTSTART:20270119T200000Z
+DTEND:20270119T220000Z
+UID:401915361
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Decathlon Arena -
+  Stade Pierre-Mauroy\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Decathlon Arena - Stade Pierre-Mauroy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Madrid vs LASK Linz
+DTSTART:20270119T200000Z
+DTEND:20270119T220000Z
+UID:401915280
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Santiago Bernabé
+ u\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Santiago Bernabéu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VfB Stuttgart vs Club Brugge
+DTSTART:20270119T200000Z
+DTEND:20270119T220000Z
+UID:401915359
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: MHPArena\n\nSourc
+ e: ESPN Core API\n\nSportsWebCal
+LOCATION:MHPArena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fenerbahce vs Villarreal
+DTSTART:20270120T174500Z
+DTEND:20270120T194500Z
+UID:401915277
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Ulker Stadyumu\n
+ \nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Ulker Stadyumu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Como vs Paris Saint-Germain
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+UID:401915273
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Giuseppe Sinigagl
+ ia\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Giuseppe Sinigaglia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lens vs Manchester City
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+UID:401915274
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Stade Bollaert-De
+ lelis\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Stade Bollaert-Delelis
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester United vs Bayern Munich
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+UID:401915357
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Old Trafford\n\nS
+ ource: ESPN Core API\n\nSportsWebCal
+LOCATION:Old Trafford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RB Leipzig vs Shakhtar Donetsk
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+UID:401915276
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Red Bull Arena\n
+ \nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Red Bull Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Betis vs Arsenal
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+UID:401915275
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Estadio La Cartuj
+ a\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Estadio La Cartuja
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting CP vs Barcelona
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+UID:401915356
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Estádio José Al
+ valade\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Estádio José Alvalade
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viking FK vs PSV Eindhoven
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+UID:401915272
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Viking Stadion\n
+ \nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Viking Stadion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal vs Sabah FK
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+UID:401915346
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Emirates Stadium
+ \n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Emirates Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AS Roma vs Lille
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+UID:401915354
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Olimpico\n\nSourc
+ e: ESPN Core API\n\nSportsWebCal
+LOCATION:Olimpico
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlético Madrid vs Fenerbahce
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+UID:401915347
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Riyadh Air Metrop
+ olitano\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Riyadh Air Metropolitano
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barcelona vs Como
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+UID:401915264
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Spotify Camp Nou
+ \n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Spotify Camp Nou
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayern Munich vs Real Betis
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+UID:401915348
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Allianz Arena\n\n
+ Source: ESPN Core API\n\nSportsWebCal
+LOCATION:Allianz Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Borussia Dortmund vs AEK Athens
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+UID:401915265
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Signal Iduna Park
+ \n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Signal Iduna Park
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Brugge vs Bodo/Glimt
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+UID:401915266
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Jan Breydel Stadi
+ um\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Jan Breydel Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feyenoord Rotterdam vs RB Leipzig
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+UID:401915271
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: De Kuip\n\nSource
+ : ESPN Core API\n\nSportsWebCal
+LOCATION:De Kuip
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LASK Linz vs FC Porto
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+UID:401915355
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Raiffeisen Arena 
+ (Linz)\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Raiffeisen Arena (Linz)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liverpool vs Lens
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+UID:401915353
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Anfield\n\nSource
+ : ESPN Core API\n\nSportsWebCal
+LOCATION:Anfield
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City vs Sporting CP
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+UID:401915352
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Etihad Stadium\n
+ \nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Etihad Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Napoli vs Viking FK
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+UID:401915268
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Stadio Diego Arma
+ ndo Maradona\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Stadio Diego Armando Maradona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris Saint-Germain vs Galatasaray
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+UID:401915267
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Parc des Princes
+ \n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Parc des Princes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSV Eindhoven vs VfB Stuttgart
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+UID:401915350
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Philips Stadion\n
+ \nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Philips Stadion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shakhtar Donetsk vs Real Madrid
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+UID:401915270
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Stamford Bridge\n
+ \nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Stamford Bridge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slavia Prague vs Aston Villa
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+UID:401915351
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Fortuna Arena\n\n
+ Source: ESPN Core API\n\nSportsWebCal
+LOCATION:Fortuna Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slovan Bratislava vs Internazionale
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+UID:401915269
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Národny Futbalov
+ y Stadión\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Národny Futbalovy Stadión
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Villarreal vs Manchester United
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+UID:401915349
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Estadio de la Cer
+ ámica\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Estadio de la Cerámica
+END:VEVENT
+END:VCALENDAR
