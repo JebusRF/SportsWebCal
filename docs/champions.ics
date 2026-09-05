@@ -173,6 +173,15 @@ DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Stade Bollaert-De
 LOCATION:Stade Bollaert-Delelis
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sabah FK vs Slavia Prague
+DTSTART:20261013T164500Z
+DTEND:20261013T184500Z
+UID:401915436
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Venue to be confi
+ rmed\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Venue to be confirmed
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Arsenal vs Lille
 DTSTART:20261013T190000Z
 DTEND:20261013T210000Z
@@ -324,6 +333,15 @@ UID:401915403
 DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Ulker Stadyumu\n
  \nSource: ESPN Core API\n\nSportsWebCal
 LOCATION:Ulker Stadyumu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sabah FK vs Borussia Dortmund
+DTSTART:20261020T164500Z
+DTEND:20261020T184500Z
+UID:401915404
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Venue to be confi
+ rmed\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Venue to be confirmed
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AS Roma vs Slovan Bratislava
@@ -713,6 +731,15 @@ DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Národny Futbalov
 LOCATION:Národny Futbalovy Stadión
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sabah FK vs Barcelona
+DTSTART:20261125T174500Z
+DTEND:20261125T194500Z
+UID:401915378
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Venue to be confi
+ rmed\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Venue to be confirmed
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Slavia Prague vs Villarreal
 DTSTART:20261125T174500Z
 DTEND:20261125T194500Z
@@ -1035,6 +1062,15 @@ UID:401915277
 DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Ulker Stadyumu\n
  \nSource: ESPN Core API\n\nSportsWebCal
 LOCATION:Ulker Stadyumu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sabah FK vs Napoli
+DTSTART:20270120T174500Z
+DTEND:20270120T194500Z
+UID:401915358
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Venue to be confi
+ rmed\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Venue to be confirmed
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Como vs Paris Saint-Germain
