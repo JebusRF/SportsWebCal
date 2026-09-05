@@ -5,4 +5,3 @@ COMPETITIONS = [
         "output": "champions.ics"
     }
 ]
-`
