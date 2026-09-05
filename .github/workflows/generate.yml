@@ -3,11 +3,10 @@ name: Generate Champions Calendar
 on:
   workflow_dispatch:
 
-  permissions:
+permissions:
   contents: write
 
 jobs:
-
   generate:
 
     runs-on: ubuntu-latest
