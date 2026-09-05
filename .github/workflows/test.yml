@@ -25,4 +25,3 @@ jobs:
       - name: Execute test
         run: |
           python src/test_champions.py
-``
