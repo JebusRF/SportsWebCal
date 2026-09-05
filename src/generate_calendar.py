@@ -24,6 +24,16 @@ def crear_calendario():
         "2.0"
     )
 
+    calendario.add(
+        "X-WR-CALNAME",
+        "UEFA Champions League"
+    )
+
+    calendario.add(
+        "X-WR-CALDESC",
+        "SportsWebCal UEFA Champions League Calendar"
+    )
+
     slug = COMPETITIONS[0]["slug"]
 
     fechas = obtener_fechas_competicion(slug)
@@ -140,6 +150,7 @@ def crear_calendario():
                 print(
                     f"ERROR: {ref}"
                 )
+
                 print(e)
 
     with open(
