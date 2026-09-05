@@ -1,7 +1,9 @@
 from config import COMPETITIONS
+
 from espn_provider import (
     obtener_fechas_competicion,
-    obtener_eventos_fecha
+    obtener_eventos_fecha,
+    obtener_detalle_evento
 )
 
 slug = COMPETITIONS[0]["slug"]
@@ -24,3 +26,13 @@ if fechas:
 
     for evento in eventos[:5]:
         print(evento)
+
+    print("")
+    print("DETALLE DEL PRIMER PARTIDO:")
+    print("")
+
+    detalle = obtener_detalle_evento(
+        eventos[0]
+    )
+
+    print(detalle)
