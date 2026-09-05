@@ -1,6 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//SportsWebCal UEFA Champions League//
+X-WR-CALDESC:SportsWebCal UEFA Champions League Calendar
+X-WR-CALNAME:UEFA Champions League
 BEGIN:VEVENT
 SUMMARY:AEK Athens vs LASK Linz
 DTSTART:20260908T164500Z
