@@ -81,11 +81,16 @@ def crear_calendario():
                     timedelta(hours=2)
                 )
 
-                estadio = (
-                    partido["competitions"][0]
-                    ["venue"]
-                    ["fullName"]
-                )
+                estadio = "Venue to be confirmed"
+
+                try:
+                    estadio = (
+                        partido["competitions"][0]
+                        ["venue"]
+                        ["fullName"]
+                    )
+                except Exception:
+                    pass
 
                 evento = Event()
 
