@@ -179,9 +179,9 @@ SUMMARY:Sabah FK vs Slavia Prague
 DTSTART:20261013T164500Z
 DTEND:20261013T184500Z
 UID:401915436
-DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Venue to be confi
- rmed\n\nSource: ESPN Core API\n\nSportsWebCal
-LOCATION:Venue to be confirmed
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Baku Olympic Stad
+ ium\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Baku Olympic Stadium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arsenal vs Lille
@@ -341,9 +341,9 @@ SUMMARY:Sabah FK vs Borussia Dortmund
 DTSTART:20261020T164500Z
 DTEND:20261020T184500Z
 UID:401915404
-DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Venue to be confi
- rmed\n\nSource: ESPN Core API\n\nSportsWebCal
-LOCATION:Venue to be confirmed
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Baku Olympic Stad
+ ium\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Baku Olympic Stadium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AS Roma vs Slovan Bratislava
@@ -737,9 +737,9 @@ SUMMARY:Sabah FK vs Barcelona
 DTSTART:20261125T174500Z
 DTEND:20261125T194500Z
 UID:401915378
-DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Venue to be confi
- rmed\n\nSource: ESPN Core API\n\nSportsWebCal
-LOCATION:Venue to be confirmed
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Baku Olympic Stad
+ ium\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Baku Olympic Stadium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Slavia Prague vs Villarreal
@@ -1070,9 +1070,9 @@ SUMMARY:Sabah FK vs Napoli
 DTSTART:20270120T174500Z
 DTEND:20270120T194500Z
 UID:401915358
-DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Venue to be confi
- rmed\n\nSource: ESPN Core API\n\nSportsWebCal
-LOCATION:Venue to be confirmed
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Baku Olympic Stad
+ ium\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Baku Olympic Stadium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Como vs Paris Saint-Germain
