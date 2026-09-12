@@ -116,9 +116,9 @@ SUMMARY:Fenerbahce vs AS Roma
 DTSTART:20260910T164500Z
 DTEND:20260910T184500Z
 UID:401915444
-DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Ulker Stadyumu\n
- \nSource: ESPN Core API\n\nSportsWebCal
-LOCATION:Ulker Stadyumu
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Şükrü Saracoğ
+ lu Stadium\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Şükrü Saracoğlu Stadium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PSV Eindhoven vs Shakhtar Donetsk
@@ -332,9 +332,9 @@ SUMMARY:Fenerbahce vs Slavia Prague
 DTSTART:20261020T164500Z
 DTEND:20261020T184500Z
 UID:401915403
-DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Ulker Stadyumu\n
- \nSource: ESPN Core API\n\nSportsWebCal
-LOCATION:Ulker Stadyumu
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Şükrü Saracoğ
+ lu Stadium\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Şükrü Saracoğlu Stadium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sabah FK vs Borussia Dortmund
@@ -584,9 +584,9 @@ SUMMARY:Fenerbahce vs Liverpool
 DTSTART:20261104T174500Z
 DTEND:20261104T194500Z
 UID:401915382
-DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Ulker Stadyumu\n
- \nSource: ESPN Core API\n\nSportsWebCal
-LOCATION:Ulker Stadyumu
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Şükrü Saracoğ
+ lu Stadium\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Şükrü Saracoğlu Stadium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Borussia Dortmund vs Real Betis
@@ -1061,9 +1061,9 @@ SUMMARY:Fenerbahce vs Villarreal
 DTSTART:20270120T174500Z
 DTEND:20270120T194500Z
 UID:401915277
-DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Ulker Stadyumu\n
- \nSource: ESPN Core API\n\nSportsWebCal
-LOCATION:Ulker Stadyumu
+DESCRIPTION:Competition: UEFA Champions League\n\nVenue: Şükrü Saracoğ
+ lu Stadium\n\nSource: ESPN Core API\n\nSportsWebCal
+LOCATION:Şükrü Saracoğlu Stadium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sabah FK vs Napoli
